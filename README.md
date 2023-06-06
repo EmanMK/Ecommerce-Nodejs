@@ -30,15 +30,11 @@ RESTful API For E-Commerce Platform Ready for Mobile or Web E-Shop Application
 <a name="instructions"></a>
 ## Instructions
 1. Clone the project
-<ul type="circle">  
- <li>`git clone https://github.com/EmanMK/Ecommerce-Nodejs.git`</li>  
-</ul> 
-..* `git clone https://github.com/EmanMK/Ecommerce-Nodejs.git`
+ :<ul type="circle"> <li> `git clone https://github.com/EmanMK/Ecommerce-Nodejs.git` </ul>
 2. install dependencies
-..* `npm install`
+ :<ul type="circle"> <li> `npm install` </ul>
 3. run
-..* for devlopment mode `npm run start:dev`
-..* for production mode `npm run start:prod`
+:<ul type="circle"> <li> for devlopment mode `npm run start:dev` </li> <li>for production mode `npm run start:prod` </li> </ul>
 
 ___
 Don't forget to leave a star if You liked this Repository :smile:
